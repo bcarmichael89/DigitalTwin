@@ -1,0 +1,21 @@
+{
+  "name": "WebExperienceBrain",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.10.0",
+  "author": "Braden Carmichael",
+  "description": "Act as the brain for the experience builder",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": true,
+    "hasConfig": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 200
+  }
+}
